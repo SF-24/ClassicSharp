@@ -1,0 +1,2 @@
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\InteropPatcher\obj\Debug\InteropPatcher.exe
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\InteropPatcher\obj\Debug\InteropPatcher.pdb
