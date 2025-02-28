@@ -1,0 +1,5 @@
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\OpenTK.dll
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\OpenTK\obj\Debug\OpenTK.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\OpenTK\obj\Debug\OpenTK.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\OpenTK\obj\Debug\OpenTK.csproj.Up2Date
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\OpenTK\obj\Debug\OpenTK.dll

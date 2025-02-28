@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\Launcher2.exe
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\Launcher2.pdb
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\Launcher2\obj\Debug\Launcher2.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\Launcher2\obj\Debug\Launcher2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\Launcher2\obj\Debug\Launcher2.csproj.Up2Date
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\Launcher2\obj\Debug\Launcher2.exe
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\Launcher2\obj\Debug\Launcher2.pdb

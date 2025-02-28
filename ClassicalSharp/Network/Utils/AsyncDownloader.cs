@@ -6,6 +6,7 @@ using System.IO;
 using System.Net;
 using System.Text;
 using System.Threading;
+using OpenTK;
 #if ANDROID
 using Android.Graphics;
 #endif
@@ -129,14 +130,16 @@ namespace ClassicalSharp.Network {
 				request.LastModified = lastModified;
 				request.ETag = etag;
 				request.Data = data;
-				
+
 				request.TimeAdded = DateTime.UtcNow;
+				
 				if (priority) {
 					pending.Insert(0, request);
 				} else {
 					pending.Add(request);
 				}
 			}
+
 			handle.Set();
 		}
 		
@@ -234,6 +237,7 @@ namespace ClassicalSharp.Network {
 			try {
 				HttpWebRequest req = MakeRequest(request);
 				using (HttpWebResponse response = (HttpWebResponse)req.GetResponse()) {
+					Utils.LogDebug(response.StatusDescription);
 					request.ETag = response.Headers.Get("ETag");
 					if (response.Headers.Get("Last-Modified") != null) {
 						request.LastModified = response.LastModified;					

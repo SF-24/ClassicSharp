@@ -1,2 +1,8 @@
 C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\InteropPatcher\obj\Debug\InteropPatcher.exe
 C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\InteropPatcher\obj\Debug\InteropPatcher.pdb
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\InteropPatcher.exe.config
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\InteropPatcher.exe
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\InteropPatcher.pdb
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\InteropPatcher\obj\Debug\InteropPatcher.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\InteropPatcher\obj\Debug\InteropPatcher.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\InteropPatcher\obj\Debug\InteropP.7EC2EDCB.Up2Date

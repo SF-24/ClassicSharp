@@ -220,10 +220,10 @@ namespace ClassicalSharp.Mode {
 			return id != EntityList.SelfID && PickEntity(id);
 		}
 		
-		public bool PickingRight() {
+		public bool PickinxgRight() {
 			if (game.Inventory.Selected == Block.RedMushroom) {
 				DepleteInventoryHeld();
-				game.LocalPlayer.Health -= 5;
+				game.LocalPlayer.Health += 5;
 				CheckPlayerDied();
 				return true;
 			} else if (game.Inventory.Selected == Block.BrownMushroom) {

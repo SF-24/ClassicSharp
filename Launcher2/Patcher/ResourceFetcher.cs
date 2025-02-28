@@ -19,8 +19,8 @@ namespace Launcher.Patcher {
 			FilesToDownload.Add(identifier);
 		}
 		
-		const string jarClassicUri = "http://s3.amazonaws.com/Minecraft.Download/versions/c0.30_01c/c0.30_01c.jar";
-		const string jar162Uri = "http://s3.amazonaws.com/Minecraft.Download/versions/1.6.2/1.6.2.jar";
+		const string jarClassicUri = "https://download1640.mediafire.com/apowkwld26vgu3Chmh_Dc1FdrxDYh1-TKi1uLQKAYXn2wKmoCmO3Vm4YJU9hkdJf7wH2H2fAXGthe2V5pL7orgGg4QEyGxvx6IZFsH0-Jtxs8o-N8TmIuYTDNgV8Mcn19saJVZIQv7oARc3AzaqBaIy4zEoX-LkUxDMhDhoZ/0qdmv49920y449h/c0.30_01c.jar";
+		const string jar162Uri = "https://download943.mediafire.com/pn1hx3qeq6aggZ8pIE_nJsIYSDAzUdYKJXWkV2bc870B3L-4ocayapyR6GZLK88ArKzOOKi2CjJRppeNdkqiDrSxSu6PqHj_IIzKJsJbOSNeOWi2lgmzbTiTHNY-plO74J8oRbcq4blsva8hTHLwASHRct7HLwZ4p2iYdesU/w8pdhfpsoitv7z0/1.6.2.jar";
 		const string pngTerrainPatchUri = "http://static.classicube.net/terrain-patch2.png";
 		const string pngGuiPatchUri = "http://static.classicube.net/gui.png";
 		public const string assetsUri = "http://resources.download.minecraft.net/";

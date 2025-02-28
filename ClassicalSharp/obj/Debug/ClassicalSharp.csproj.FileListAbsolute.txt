@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\credits.txt
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\readme.md
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\SharpWave.dll.config
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\ClassicalSharp.exe.config
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\ClassicalSharp.exe
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\output\debug\ClassicalSharp.pdb
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\obj\Debug\ClassicalSharp.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\obj\Debug\ClassicalSharp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\obj\Debug\Classica.AD86A9C7.Up2Date
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\obj\Debug\ClassicalSharp.exe
+C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\obj\Debug\ClassicalSharp.pdb

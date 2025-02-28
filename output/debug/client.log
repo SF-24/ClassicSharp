@@ -1,0 +1,26 @@
+=== crash occurred ===
+Time: 28/02/2025 15:33:52
+Running on: .NET 2.0.50727.9157, Windows - 6.2.9200.0
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at ClassicalSharp.Commands.HelpCommand.Execute(String[] args) in C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\Commands\Commands.cs:line 34
+   at ClassicalSharp.Commands.CommandList.Execute(String text) in C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\Commands\CommandList.cs:line 100
+   at ClassicalSharp.Chat.Send(String text) in C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\Game\ChatLog.cs:line 38
+   at ClassicalSharp.Gui.Widgets.ChatInputWidget.EnterInput() in C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\2D\Widgets\Chat\ChatInputWidget.cs:line 54
+   at ClassicalSharp.Gui.Screens.ChatScreen.HandlesKeyDown(Key key) in C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\2D\Screens\ChatScreen.cs:line 353
+   at ClassicalSharp.Gui.Screens.HudScreen.HandlesKeyDown(Key key) in C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\2D\Screens\HudScreen.cs:line 146
+   at ClassicalSharp.InputHandler.KeyDownHandler(Object sender, KeyboardKeyEventArgs e) in C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\Game\InputHandler.cs:line 169
+   at OpenTK.Input.KeyboardDevice.set_Item(Key key, Boolean value)
+   at OpenTK.Platform.Windows.WinGLNative.WindowProcedure(IntPtr handle, WindowMessage message, IntPtr wParam, IntPtr lParam)
+   at OpenTK.Platform.Windows.API.DispatchMessage(MSG& msg)
+   at OpenTK.Platform.Windows.WinGLNative.ProcessEvents()
+   at OpenTK.GameWindow.Run()
+   at ClassicalSharp.Game.Run() in C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\Game\Game.cs:line 55
+   at ClassicalSharp.Program.Main(String[] args) in C:\Users\Dell\Desktop\Sebastian\C-sharp\ClassicalSharp-Survival\ClassicalSharp\Program.cs:line 51
+
+--Using OpenGL api--
+Vendor: Intel
+Renderer: Intel(R) UHD Graphics 620
+GL version: 4.6.0 - Build 31.0.101.2130
+Max 2D texture dimensions: 16384
+Depth buffer bits: 24
+
